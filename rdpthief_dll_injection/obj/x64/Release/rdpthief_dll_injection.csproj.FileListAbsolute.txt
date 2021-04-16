@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\rdpthief_dll_injection\rdpthief_dll_injection\bin\x64\Release\rdpthief_dll_injection.exe.config
+C:\Users\offsec.CORP1.000\Desktop\rdpthief_dll_injection\rdpthief_dll_injection\bin\x64\Release\rdpthief_dll_injection.exe
+C:\Users\offsec.CORP1.000\Desktop\rdpthief_dll_injection\rdpthief_dll_injection\bin\x64\Release\rdpthief_dll_injection.pdb
+C:\Users\offsec.CORP1.000\Desktop\rdpthief_dll_injection\rdpthief_dll_injection\obj\x64\Release\rdpthief_dll_injection.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\rdpthief_dll_injection\rdpthief_dll_injection\obj\x64\Release\rdpthief_dll_injection.exe
+C:\Users\offsec.CORP1.000\Desktop\rdpthief_dll_injection\rdpthief_dll_injection\obj\x64\Release\rdpthief_dll_injection.pdb
